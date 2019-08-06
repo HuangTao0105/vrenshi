@@ -36,16 +36,16 @@
 				</el-tab-pane>
 				<el-tab-pane label="好友聊天" name="first">
 					<div class="beijing">
-						sss
+						<img class="img1" src="../../assets/1.jpg" />
 					</div>
 					<div class="beijing">
-						sss
+						<img class="img1" src="../../assets/2.jpg" />
 					</div>
 					<div class="beijing">
-						sss
+						<img class="img1" src="../../assets/3.jpg" />
 					</div>
 					<div class="beijing">
-						sss
+						<img class="img1" src="../../assets/1.jpg" />
 					</div>
 				</el-tab-pane>
 			</el-tabs>
@@ -115,5 +115,8 @@
 		background-color: white;
 
 	}
-	
+	.img1{
+		width:20px ;
+		height: 20px;
+	}
 </style>
